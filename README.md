@@ -1,0 +1,30 @@
+# :page_facing_up: One-shot is Enough: Boosting SAM for Medical Image Segmentation through Structured Information Modeling
+
+<p align="center"><img src="figures/1.png" width="90%"></p>
+
+### Dependency Preparation
+
+```shell
+cd OB-SAM
+# Python Preparation
+conda create -n AdaptSAM python=3.10
+activate OB-SAM
+# It is recommended to use the conda installation on the Pytorch website https://pytorch.org/
+pip install -r requirements.txt
+```
+
+### Model Training
+
+```shell
+# Model Train
+# Please set the path of training image, training label in Train.py file.
+python Train.py
+```
+
+### Citation ✏️ 📄
+
+If you find this repo useful for your research, please consider citing the paper as follows:
+
+```
+The paper has not yet been accepted.
+```
