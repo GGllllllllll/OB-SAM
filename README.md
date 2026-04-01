@@ -7,7 +7,7 @@
 ```shell
 cd OB-SAM
 # Python Preparation
-conda create -n AdaptSAM python=3.10
+conda create -n OB-SAM python=3.10
 activate OB-SAM
 # It is recommended to use the conda installation on the Pytorch website https://pytorch.org/
 pip install -r requirements.txt
