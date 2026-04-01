@@ -24,10 +24,7 @@ python Train.py
 ###  Pre-trained Weights
 
 We are making all the pre-trained weights for our experiments publicly available; you can access them by clicking the link below:
-
-```shell
 https://drive.google.com/file/d/1z2RQXAA9V964urYFyhOSWNogEhu5E8lV/view?usp=drive_link
-```
 
 ### Citation ✏️ 📄
 
